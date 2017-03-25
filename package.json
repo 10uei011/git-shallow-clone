@@ -1,0 +1,29 @@
+{
+  "name": "git-shallow-clone",
+  "version": "0.0.1",
+  "description": "Shallow clone a git repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node './test/test.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "git",
+    "shallow",
+    "clone",
+    "node",
+    "repository"
+  ],
+  "author": "dipesh <dipesh.singh2012@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/10uei011/git-shallow-clone/issues"
+  },
+  "homepage": "https://github.com/10uei011/git-shallow-clone",
+  "devDependencies": {
+    "standard": "^9.0.2"
+  }
+}
